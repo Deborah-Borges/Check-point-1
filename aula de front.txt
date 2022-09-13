@@ -1,0 +1,7 @@
+Display: none; é utilizado quando vc quer esconder algo quando a 
+página for acessada em outros dispositivos de tamanhos diferentes.
+
+@midia (min-width: valor estipulado do tamanho a ser adequado)
+(tag onde vc quer aplicar) { 
+valor a ser aplicado (ex. display: flex)
+}
